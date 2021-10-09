@@ -13,4 +13,4 @@ Follow these steps to run youur dev server locally
 
 ### Documentation
 
-[Visit this link](https://web.postman.co/workspace/My-Workspace~d7d70928-3522-41e0-84e1-d8efd6362616/documentation/6054133-46e7c194-b83d-4cdc-8294-886c50a25da2) to view the docs on postman.
+[Visit this link](https://documenter.getpostman.com/view/6054133/UUxwEVho) to view the docs on postman.
